@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: ""
+permalink: /jjoeysu.github.io
+title: "AAA"
 excerpt: ""
 author_profile: true
 redirect_from: 

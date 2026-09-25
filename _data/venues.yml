@@ -23,3 +23,7 @@
 "ACM TCPS":
   url: https://dl.acm.org/journal/tcps
   color: "#b509ac"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b509ac"

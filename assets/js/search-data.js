@@ -466,7 +466,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%6A%6F%65%79%73%75@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%78%69%61%6F%79%69%73%75%33-%63@%6D%79.%63%69%74%79%75.%65%64%75.%68%6B", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/jjoeysu", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/xiaoyi-su-442047299", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -480,7 +494,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=rklie5wAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',

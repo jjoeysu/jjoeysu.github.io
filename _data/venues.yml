@@ -7,3 +7,19 @@
 
 "Vision":
   color: "#009f36"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#b509ac"
+
+"RSTA":
+  url: https://royalsocietypublishing.org/journal/rsta
+  color: "#b509ac"
+
+"ICLR":
+  url: https://openreview.net/group?id=ICLR.cc
+  color: "#b509ac"
+
+"ACM TCPS":
+  url: https://dl.acm.org/journal/tcps
+  color: "#b509ac"

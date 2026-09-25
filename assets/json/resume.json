@@ -4,7 +4,7 @@
     // "label": "PhD Student",
     // "birth": "31st August 2001",
     "image": "",
-    "email": "jjoeysu@gmail.com",
+    "email": "xiaoyisu3-c@my.cityu.edu.hk",
     "phone": "(852) 68472977",
     // "url": "https://jjoeysu.github.io/",
     // "summary": "A PhD student interested in statistics",
@@ -93,6 +93,12 @@
   ],
   "awards": [
     {
+      "title": "Outstanding Academic Performance Award for Research Degree Students",
+      "date": "2026",
+      "awarder": "City University of Hong Kong",
+      "summary": ""
+    },
+    {
       "title": "National Encouragement Scholarship",
       "date": "2021",
       "awarder": "Wuhan University",
@@ -124,13 +130,6 @@
       "title": "First Prize, The Chinese Mathematics Competitions",
       "date": "2021, 2023",
       "awarder": "Chinese Mathematical Society (CMS)",
-      // "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": ""
-    },
-    {
-      "title": "First Prize, Hubei Mathematics Competitions",
-      "date": "2021, 2023",
-      "awarder": "Hubei Province Mathematical Society",
       // "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": ""
     }
@@ -247,10 +246,10 @@
       ]
     },
     {
-      "name": "Culinary Arts & Food",
+      "name": "Food & Culinary Exploration",
       "icon": "fa-solid fa-utensils",
       "keywords": [
-        "Food Exploration",
+        "Exploring Cuisines",
         "Baking"
       ]
     }

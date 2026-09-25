@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.cityu.edu.hk/sye/'>Department of Systems Engineering</a>, <a href='https://www.cityu.edu.hk/'>City University of Hong Kong</a>, Kowloon, Hong Kong.
 
@@ -27,15 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a PhD student in the Department of Systems Engineering at City University of Hong Kong. My primary research interests include: **Conformal Prediction** and **Statistical Theory in Trustworthy AI**.
+I am currently a PhD student in the Department of Systems Engineering at City University of Hong Kong, supervised by <a href='https://www.cityu.edu.hk/stfprofile/RLuo.htm'>Prof. Rui Luo</a>. My research focuses on statistical methodology and its applications in trustworthy AI systems, with a particular emphasis on conformal prediction (CP).
 
-Before my PhD journey, I obtained my Master's degree from the Department of Biostatistics at City University of Hong Kong in 2024, and my Bachelor's degree from the School of Mathematics and Statistics at Wuhan University in 2023.
+Prior to my PhD studies, I obtained my Master's degree in Biostatistics from City University of Hong Kong in 2024, and my Bachelor's degree from the School of Mathematics and Statistics at Wuhan University in 2023.
 
 ### Contact Information
 
-I welcome collaborations and discussions related to my research areas. Please feel free to connect with me via email or any of my social media profiles!
+If you are interested in collaboration or would like to discuss related research topics, feel free to reach out via email or the links below.
 
-* **Email:** jjoeysu@gmail.com
+* **Email:** [xiaoyisu3-c@my.cityu.edu.hk](mailto:xiaoyisu3-c@my.cityu.edu.hk)
 * **Phone:** (852) 68472977
 <!-- * **LinkedIn/Personal Website:** [Your Link] -->
 

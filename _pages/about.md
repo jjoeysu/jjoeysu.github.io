@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a PhD student in the Department of Systems Engineering at City University of Hong Kong, supervised by <a href='https://www.cityu.edu.hk/stfprofile/RLuo.htm'>Prof. Rui Luo</a>. My research focuses on statistical methodology and its applications in trustworthy AI systems, with a particular emphasis on conformal prediction (CP).
+I am currently a PhD student in the Department of Systems Engineering at City University of Hong Kong, supervised by <a href='https://www.cityu.edu.hk/stfprofile/RLuo.htm'>Prof. Rui Luo</a>. My research focuses on the statistical theory, methodology, and applications of conformal prediction (CP).
 
-Prior to my PhD studies, I obtained my Master's degree in Biostatistics from City University of Hong Kong in 2024, and my Bachelor's degree from the School of Mathematics and Statistics at Wuhan University in 2023.
+Prior to my PhD studies, I obtained my Master's degree from the Department of Biostatistics at City University of Hong Kong in 2024, and my Bachelor's degree from the School of Mathematics and Statistics at Wuhan University in 2023.
 
 ### Contact Information
 

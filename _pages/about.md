@@ -13,6 +13,8 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
+email: xiaoyisu3-c [at] my.cityu.edu.hk
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -31,12 +33,7 @@ I am currently a PhD student in the Department of Systems Engineering at City Un
 
 Prior to my PhD studies, I obtained my Master's degree from the Department of Biostatistics at City University of Hong Kong in 2024, and my Bachelor's degree from the School of Mathematics and Statistics at Wuhan University in 2023.
 
-### Contact Information
-
 If you are interested in collaboration or would like to discuss related research topics, feel free to reach out via email or the links below.
-
-* **Email:** [xiaoyisu3-c@my.cityu.edu.hk](mailto:xiaoyisu3-c@my.cityu.edu.hk)
-* **Phone:** (852) 68472977
 <!-- * **LinkedIn/Personal Website:** [Your Link] -->
 
 
